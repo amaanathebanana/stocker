@@ -1,5 +1,5 @@
 # Stocker
-#### Video Demo: TODO
+#### Video Demo: https://youtube.com/watch?v=BUV7VIAUqmo
 #### Description: A discord bot designed for paper trading! Paper trading is like trading stocks, however with virtual money instead of real money. 
 #### My Files: I have a command handler designed by Lyxcode, however all the other files are mine. I chose MongoDB as my database because it's the most common database for most discord bots and has great documentation that I can use incase I get stuck.
 
@@ -17,4 +17,4 @@
 
 ##### Stocks: It queries the database for all the stocks that you own and then makes a loop, which adds entries to the discord message with the converted price and a total for all the stocks you own.
 
-##### MongoDB. I used two tables in MongoDB to store the stocks that were currently owned and the users cash
+##### MongoDB. I used two schemas in MongoDB to store the stocks that were currently owned and the users cash
